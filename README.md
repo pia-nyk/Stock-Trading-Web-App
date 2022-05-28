@@ -7,3 +7,5 @@ Responsive webpage built using AngularJS, Node.js, & Bootstrap that allows users
 [![Watch the video](https://img.youtube.com/vi/c27dBE14UPs/maxresdefault.jpg)](https://youtu.be/c27dBE14UPs)
 
 <b>Note:</b> Complete description of the project can be found in the repo. 
+
+[Check the mobile version of the application here](https://github.com/pia-nyk/Stock-Trading-Mobile-App)
