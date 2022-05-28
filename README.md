@@ -1,6 +1,6 @@
 # Stock-Trading-Web-App
 
-Responsive Webpage built using AngularJS & Node.js, that allows users to search for stocks using the Finnhub API and display the results on the search page. Additionally, the users can trade with virtual money and create a portfolio. Users can also favorite stock symbols to track their stock prices.
+Responsive webpage built using AngularJS, Node.js, & Bootstrap that allows users to search for stocks using the Finnhub API and display the results on the search page. Additionally, the users can trade with virtual money and create a portfolio. Users can also favorite stock symbols to track their stock prices.
 
 Watch the Web App in action here
 
